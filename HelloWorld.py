@@ -1,1 +1,3 @@
-print("hello world")
+import math
+
+print(math.pi: .2)
